@@ -2,10 +2,10 @@
 
 I'm a developer interested in building useful mobile apps for real-world work.
 
-- 🌱 Currently working on an offline-aware forestry field reporting app.
-- 📱 Building with Flutter and Dart.
-- ☁️ Working with Firebase Authentication and Cloud Firestore.
-- 📄 Exploring practical ways to capture, manage, and report field data.
+- 🎓 Completed and submitted the Forestry Field Data System as a school project.
+- 📱 Built with Flutter and Dart.
+- ☁️ Uses Firebase Authentication and Cloud Firestore.
+- 📄 Includes report forms, photo evidence, PDF exports, and connectivity status.
 
 ## 🛠️ Technical Toolkit
 
@@ -19,7 +19,7 @@ I'm a developer interested in building useful mobile apps for real-world work.
 
 ### Forestry Field Data System
 
-A Flutter mobile app designed to help forestry field officers capture and manage field reports.
+A completed Flutter school project designed to help forestry field officers capture and manage field reports.
 
 - Role-based workflows for officers and managers
 - Structured report forms with field validation
@@ -27,6 +27,6 @@ A Flutter mobile app designed to help forestry field officers capture and manage
 - PDF report generation and sharing
 - Firebase-backed authentication and report data
 
-## 🎯 What I'm Focused On
+## 🎯 What I'm Interested In
 
 Building clear, dependable mobile experiences that help people collect and use information in the field.
