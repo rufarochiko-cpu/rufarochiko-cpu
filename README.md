@@ -1,51 +1,73 @@
-# Hi, I'm Rufaro Chikomba 👋
+<div align="center">
 
-🎓 Information Systems student at Midlands State University  
-💻 ICT work-related learning experience at the Forestry Commission  
-📱 Completed and submitted an offline-first mobile app as my final-year project
+# Rufaro Chikomba
 
-## About Me
+### Information Systems · ICT Support · Mobile Application Development
 
-I'm an Information Systems student with practical experience supporting users and maintaining ICT equipment, alongside hands-on mobile application development. I enjoy solving day-to-day technology problems and building useful tools for people working in the field.
+Building practical digital tools and helping people get more from technology.
 
-- 🧰 Work-related learning: Forestry Commission of Zimbabwe, Bulawayo (April 2025–February 2026)
-- 📚 Studying toward a Bachelor of Commerce Honours degree in Information Systems
-- 🎯 Interested in junior ICT support, Information Systems, and mobile application development
+[![GitHub](https://img.shields.io/badge/GitHub-rufarochiko--cpu-14283F?style=flat-square&logo=github&logoColor=white)](https://github.com/rufarochiko-cpu)
+[![Flutter](https://img.shields.io/badge/Flutter-Mobile%20apps-10A99A?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-Development-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-Cloud%20services-FFCA28?style=flat-square&logo=firebase&logoColor=14283F)](https://firebase.google.com/)
 
-## 🛠️ Technical Toolkit
+</div>
 
-| Area | Tools and experience |
+---
+
+## About
+
+I am an Information Systems student at **Midlands State University** with practical ICT support experience from the **Forestry Commission of Zimbabwe**. My work combines day-to-day troubleshooting with mobile development, requirements gathering, and a strong interest in secure, dependable systems.
+
+- 🎓 Bachelor of Commerce Honours in Information Systems — **degree award pending**
+- 🧰 ICT work-related learning, Bulawayo — **April 2025 to February 2026**
+- 📍 Zimbabwe
+- 🌱 Interested in junior ICT support, Information Systems, and mobile application roles
+
+## Featured project
+
+### 🌳 Offline-First Mobile Data Collection System
+
+Final-year school project submitted in 2026. An Android application for Forestry field officers who may need to record reports where internet access is limited.
+
+| What it does | Project details |
 | --- | --- |
-| Mobile development | Flutter, Dart |
-| Cloud and data | Firebase Authentication, Cloud Firestore |
-| ICT support | User support, computer and printer setup, Wi-Fi troubleshooting, software installation, asset inventory, data backups |
-| Development practice | Requirements gathering, iterative development, functional and security testing |
+| Field reporting | Captures seven types of forestry reports and saves them offline |
+| Synchronisation | Sends saved reports when connectivity returns |
+| Evidence and access | Role-based sign-in and photo attachments |
+| Manager tools | Search, filtering, summaries, and PDF exports |
+| Built with | Flutter, Dart, Firebase Authentication, and Cloud Firestore |
+| Testing | 26 functional cases passed; all four security cases produced expected results in the documented test environment |
 
-## 💼 Work-Related Learning
+> The project was completed and submitted as an academic project. The testing results describe the documented test environment.
 
-### ICT Intern · Forestry Commission of Zimbabwe · Bulawayo
+## Experience
 
-- Assisted staff with computer, printer, software, email, and account issues.
-- Prepared desktop and laptop computers, configured printers, and installed software and drivers.
-- Monitored Wi-Fi performance and assisted with connectivity troubleshooting and routine ICT maintenance.
-- Updated ICT asset records and supported data backups.
-- Developed a chatbot prototype for common IT queries.
+### ICT Intern · Forestry Commission of Zimbabwe
+*Bulawayo · April 2025 to February 2026*
 
-## 🌳 Featured Projects
+- Supported staff with computer, printer, software, email, and account issues.
+- Prepared five desktops and two laptops for a new camp; installed software and configured peripherals.
+- Monitored Wi-Fi and assisted with connectivity troubleshooting and routine maintenance.
+- Updated ICT equipment records and supported backups.
+- Built a prototype chatbot for frequently asked ICT questions.
 
-### Offline-First Mobile Data Collection System for Forestry Field Officers
+## Technical toolkit
 
-A final-year school project submitted in 2026. The Android application supports field reporting where internet access may be limited.
+| Mobile and application development | ICT and operations | Project practice |
+| --- | --- | --- |
+| Flutter · Dart · Android | User support · Windows setup · printer configuration | Requirements gathering · iterative development |
+| Firebase Authentication · Cloud Firestore | Wi-Fi · basic LAN troubleshooting · software installation | Functional testing · security testing · documentation |
+| Offline capture · photo evidence · PDF export | Asset inventory · updates · backups | Confidentiality and careful data handling |
 
-- Captures seven types of forestry reports and saves them for offline use.
-- Synchronises reports when a connection becomes available.
-- Supports role-based access, photo attachments, manager search and filtering, summaries, and PDF exports.
-- In the documented test environment, all 26 functional test cases passed and all four security test cases produced the expected results.
+## Academic highlights
 
-### ICT Support Chatbot Prototype
+Selected classifications from my academic record: Human Computer Interaction **(1)** · Artificial Intelligence **(2.1)** · Information Security **(2.1)** · Management Information Systems **(2.2)** · Decision Support Systems **(3)**.
 
-A work-related learning project designed to answer common ICT questions and reduce reliance on manual support.
+---
 
-## 🎯 What I'm Interested In
+<div align="center">
 
-Building dependable mobile tools and helping people get the best from their technology.
+*Thanks for stopping by. I’m always interested in practical software and ICT support work.*
+
+</div>
