@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**rufarochiko-cpu/rufarochiko-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer interested in building useful mobile apps for real-world work.
 
-Here are some ideas to get you started:
+- 🌱 Currently working on an offline-aware forestry field reporting app.
+- 📱 Building with Flutter and Dart.
+- ☁️ Working with Firebase Authentication and Cloud Firestore.
+- 📄 Exploring practical ways to capture, manage, and report field data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Toolkit
+
+| Area | Tools and experience |
+| --- | --- |
+| Mobile | Flutter, Dart |
+| Backend and data | Firebase Authentication, Cloud Firestore |
+| App features | Report forms, photo evidence, PDF exports, connectivity status |
+
+## 🌳 Featured Project
+
+### Forestry Field Data System
+
+A Flutter mobile app designed to help forestry field officers capture and manage field reports.
+
+- Role-based workflows for officers and managers
+- Structured report forms with field validation
+- Photo evidence attached to reports
+- PDF report generation and sharing
+- Firebase-backed authentication and report data
+
+## 🎯 What I'm Focused On
+
+Building clear, dependable mobile experiences that help people collect and use information in the field.
